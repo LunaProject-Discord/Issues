@@ -2,7 +2,7 @@
 name: バグ報告
 about: サービスをもっとよくするための報告を作成します。
 title: ''
-labels: 'Feature'
+labels: 'Bug'
 assignees: ''
 
 ---
